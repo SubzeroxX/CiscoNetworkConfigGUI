@@ -45,7 +45,6 @@ namespace NetworkMaker
             // 
             // btnUj
             // 
-            this.btnUj.Enabled = false;
             this.btnUj.Location = new System.Drawing.Point(335, 51);
             this.btnUj.Name = "btnUj";
             this.btnUj.Size = new System.Drawing.Size(75, 23);
